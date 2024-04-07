@@ -1,10 +1,10 @@
-Diabetic Retinopathy Detection Model
+DIABETIC RETINOPATHY DETECTION MODEL
 
-Overview
+OVERVIEW
 
 This repository contains a deep learning model for detecting diabetic retinopathy from fundus images. Diabetic retinopathy is a common complication of diabetes and can lead to vision loss if not detected and treated early. The model uses convolutional neural networks (CNNs) trained on a dataset of fundus images to classify images as either normal or showing signs of diabetic retinopathy.
 
-Features
+FEATURES
 
 Trained using a dataset of fundus images labeled with diabetic retinopathy status.
 
@@ -15,7 +15,8 @@ Achieves high accuracy in distinguishing between normal and abnormal fundus imag
 Easy to use and integrate into existing healthcare systems for diabetic retinopathy screening.
 
 
-Usage
+
+USAGE
 
 Model Training: Train the model using the provided dataset of fundus images.
 
@@ -24,7 +25,7 @@ Model Evaluation: Evaluate the model's performance on a separate test dataset to
 Deployment: Integrate the trained model into healthcare systems for automated diabetic retinopathy screening.
 
 
-Requirements
+REQUIREMENTS
 
 Python 3.x
 TensorFlow
