@@ -6,13 +6,13 @@ This repository contains a deep learning model for detecting diabetic retinopath
 
 FEATURES
 
-Trained using a dataset of fundus images labeled with diabetic retinopathy status.
+1.Trained using a dataset of fundus images labeled with diabetic retinopathy status.
 
-Utilizes state-of-the-art CNN architecture for image classification.
+2.Utilizes state-of-the-art CNN architecture for image classification.
 
-Achieves high accuracy in distinguishing between normal and abnormal fundus images.
+3.Achieves high accuracy in distinguishing between normal and abnormal fundus images.
 
-Easy to use and integrate into existing healthcare systems for diabetic retinopathy screening.
+4.Easy to use and integrate into existing healthcare systems for diabetic retinopathy screening.
 
 
 
@@ -27,11 +27,7 @@ Deployment: Integrate the trained model into healthcare systems for automated di
 
 REQUIREMENTS
 
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Matplotlib
+Python, TensorFlow, Keras, NumPy, Matplotlib
 
 
 
